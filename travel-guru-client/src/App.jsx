@@ -10,7 +10,6 @@ function App() {
 
   return (
     <div className='main-body'>
-      <Header></Header>
       <Outlet></Outlet>
     </div>
   )

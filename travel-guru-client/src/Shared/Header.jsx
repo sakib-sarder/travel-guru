@@ -14,7 +14,7 @@ const Header = () => {
                 <NavLink to="/destination">Destination</NavLink>
                 <NavLink to="/blog">Blog</NavLink>
                 <NavLink to="/contact">Contact</NavLink>
-                <NavLink to="/login"><button className='bg-yellow-500 px-4 py-1 rounded-md font-semibold tracking-wider'>Login</button></NavLink>
+                <NavLink to="/login"><button className='bg-yellow-500 px-4 py-1 rounded-md font-semibold tracking-wider text-black'>Login</button></NavLink>
             </div>
         </div>
     );
