@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Eiffel Tower",
+    "city": "Paris",
+    "country": "France",
+    "image": "https://images.unsplash.com/photo-1614937642575-463a5e9987bb",
+    "description": "The Eiffel Tower is a wrought-iron lattice tower located on the Champ de Mars in Paris. It is named after the engineer Gustave Eiffel, whose company designed and built the tower."
+  },
+  {
+    "name": "Machu Picchu",
+    "city": "Cusco",
+    "country": "Peru",
+    "image": "https://images.unsplash.com/photo-1620137643752-8a0a1a813a4c",
+    "description": "Machu Picchu is an Incan citadel set high in the Andes Mountains in Peru. It is known for its stunning views and well-preserved ruins, which offer a glimpse into the Incan civilization."
+  },
+  {
+    "name": "Taj Mahal",
+    "city": "Agra",
+    "country": "India",
+    "image": "https://images.unsplash.com/photo-1607514243003-86f8e5c5b909",
+    "description": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the Yamuna river in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor, Shah Jahan, to house the tomb of his favorite wife, Mumtaz Mahal."
+  },
+  {
+    "name": "Great Wall of China",
+    "city": "Beijing",
+    "country": "China",
+    "image": "https://images.unsplash.com/photo-1612388107606-7d10fdaab1a7",
+    "description": "The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials, generally built along an east-to-west line across the historical northern borders of China to protect against intrusions by various nomadic groups."
+  },
+  {
+    "name": "The Colosseum",
+    "city": "Rome",
+    "country": "Italy",
+    "image": "https://images.unsplash.com/photo-1530316997254-4f8af3844c4e",
+    "description": "The Colosseum, also known as the Flavian Amphitheatre, is an oval amphitheatre in the center of the city of Rome. It is the largest amphitheatre ever built and is considered one of the greatest works of Roman architecture and engineering."
+  },
+  {
+    "name": "Cox's Bazar",
+    "city": "Cox's Bazar",
+    "country": "Bangladesh",
+    "image": "https://i.ibb.co/CMvwbv6/Rectangle-1.png",
+    "description": "Cox's Bazar is a town in southeastern Bangladesh known for its 120km long sandy beach along the Bay of Bengal. It's a popular tourist destination with attractions such as the Himchori Waterfall and the Cox's Bazar Lighthouse. The town is also a center for fishing and seafood trade, and has a vibrant local culture with delicious seafood dishes."
+  }
+]
