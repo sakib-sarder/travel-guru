@@ -5,3 +5,24 @@ body {
     background-position: center;
     background-blend-mode: overlay;
   }
+
+  .swiper-pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  
+  .swiper-pagination-bullet {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #fff;
+    opacity: 0.5;
+    transition: opacity 0.2s ease-out;
+    margin: 0 5px;
+    cursor: pointer;
+  }
+  
+  .swiper-pagination-bullet-active {
+    opacity: 1;
+  }

@@ -12,6 +12,12 @@ app.get("/", (req, res) => {
 app.get("/place", (req, res) => {
     res.send(places)
 })
+
+app.get("/place/:id", (req, res) => {
+    const id = req.params.id;
+    const identificationPlace = places.find((p) => p.id == id);
+    res.send(identificationPlace)
+})
   
 
 app.listen(port, () => {
